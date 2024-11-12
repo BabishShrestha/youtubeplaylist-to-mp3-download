@@ -17,7 +17,7 @@ Run the following command to install the necessary Python packages:
 
 ```bash
 pip install pytube requests pydub
-
+```
 ### Step 2: Install FFmpeg
 
 FFmpeg is needed for handling media formats. Follow these steps to install FFmpeg:
@@ -31,7 +31,7 @@ FFmpeg is needed for handling media formats. Follow these steps to install FFmpe
 
 ```bash
 python your_script_name.py
-
+```
 ## Usage
 
 1. Execute the script using Python by running the following command in your terminal:
